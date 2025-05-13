@@ -14,7 +14,7 @@ Este repositório apresenta a atividade de **Verificação e Validação** desen
 
 A análise completa dos defeitos está disponível no documento abaixo:
 
-📎 [Ciclo de Vida do Defeito - Documento de Análise](./Ciclo%20de%20Vida%20do%20Defeito.docx)
+📎 [Ciclo de Vida do Defeito - Documento de Análise](https://senacpernambuco-my.sharepoint.com/:w:/g/personal/joao_ferreira_edu_pe_senac_br/EQYUacksHLFIs_9dP0D9qUgBOs8VPsJfU3MPEnhI9qU_Qg?e=Z8ZgWw)
 
 
 ## 💿 Vídeo de demonstração do sistema corrigido
