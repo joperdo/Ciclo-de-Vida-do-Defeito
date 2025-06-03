@@ -2,7 +2,7 @@
     Definição do modelo Pessoa.
 """
 
-from database import db
+from src.database import db
 
 class Pessoa(db.Model):
     """Modelo que representa uma pessoa na base de dados."""

@@ -1,8 +1,8 @@
 import secrets
 from flask import Flask, render_template, request, redirect, url_for, flash
-from models.pessoa import Pessoa
-from controllers.pessoa_controller import PessoaController
-from database import init_app, db
+from src.models.pessoa import Pessoa
+from src.controllers.pessoa_controller import PessoaController
+from src.database import init_app, db
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///pessoas.db'

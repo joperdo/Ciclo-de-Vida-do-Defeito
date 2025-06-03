@@ -1,5 +1,5 @@
-from models.pessoa import Pessoa
-from database import db
+from src.models.pessoa import Pessoa
+from src.database import db
 
 class PessoaController:
     @staticmethod
